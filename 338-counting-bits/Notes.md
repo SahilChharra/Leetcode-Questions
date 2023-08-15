@@ -1,0 +1,1 @@
+<h2>counting-bits Notes</h2><hr>The commented part pattern can be refered for the explainnation of formula used
